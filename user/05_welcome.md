@@ -2,7 +2,7 @@
 layout: default
 title: Welcome
 parent: User manuals
-has_children: true
+has_children: false
 nav_order: 5
 permalink: /usermanuals/welcome
 ---
