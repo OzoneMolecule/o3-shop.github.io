@@ -3,8 +3,6 @@ title: Home
 layout: home
 ---
 
-![O3-Shop logo](assets/logo.png "O3-Shop logo")
-
 O3-Shop project is community driven fork of the last GPL based OXID eShop Community Edition (CE).
 
 O3 Shop based on flexible PHP symfony framework and is optimized for PHP8+.
