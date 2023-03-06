@@ -1,4 +1,7 @@
-# O3-Shop
+---
+title: Home
+layout: home
+---
 
 ![O3-Shop logo](assets/logo.png "O3-Shop logo")
 
