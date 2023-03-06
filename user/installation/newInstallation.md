@@ -5,6 +5,15 @@ parent: Installation instructions
 grand_parent: User manuals
 ---
 
+# Navigation Structure
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 Install Composer in version 2.2.x ([https://getcomposer.org](https://gecomposer.org)).
 
 Execute the command in the desired installation directory:
