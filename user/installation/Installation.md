@@ -1,6 +1,7 @@
 ---
 title: new installation 
 layout: default
+parent: installation
 ---
 
 # Installation instructions
