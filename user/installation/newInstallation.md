@@ -3,6 +3,7 @@ title: new installation
 layout: default
 parent: Installation instructions
 grand_parent: User manuals
+nav_order: 10
 ---
 
 # Installation instructions
