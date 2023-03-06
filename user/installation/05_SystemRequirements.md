@@ -4,6 +4,7 @@ layout: default
 parent: Installation instructions
 grand_parent: User manuals
 nav_order: 5
+permalink: /usermanuals/installation/requirements
 ---
 
 ## System requirements
