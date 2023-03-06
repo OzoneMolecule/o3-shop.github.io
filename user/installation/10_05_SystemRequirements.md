@@ -6,7 +6,7 @@ grand_parent: User manuals
 nav_order: 5
 ---
 
-# System requirements
+## System requirements
 
 - Apache versions 2.2 or 2.4 (on Linux)
 - 500 MB free webspace
