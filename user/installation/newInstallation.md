@@ -5,14 +5,16 @@ parent: Installation instructions
 grand_parent: User manuals
 ---
 
-# Navigation Structure
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
 {:toc}
+</details>
+
+# Command
 
 Install Composer in version 2.2.x ([https://getcomposer.org](https://gecomposer.org)).
 
@@ -28,4 +30,7 @@ Call up your shop via its URL and go through the setup process.
 
 Further contents:
 
+# Permissions
 - [Permission Settings](PermissionSettings.md)
+
+# further steps
