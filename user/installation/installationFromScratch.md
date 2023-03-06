@@ -1,7 +1,7 @@
 ---
-title: new installation 
+title: Installation from scratch 
 layout: default
-parent: Installation from scratch
+parent: Installation instructions
 grand_parent: User manuals
 nav_order: 10
 ---
