@@ -1,12 +1,12 @@
 ---
 title: new installation 
 layout: default
-parent: Installation instructions
+parent: Installation from scratch
 grand_parent: User manuals
 nav_order: 10
 ---
 
-# Installation instructions
+# Installation from scratch
 {: .no_toc }
 
 <details open markdown="block">
