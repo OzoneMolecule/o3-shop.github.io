@@ -1,12 +1,8 @@
 ---
 title: new installation 
 layout: default
-parent: installation
+parent: Installation instructions
 ---
-
-# Installation instructions
-
-## Installation
 
 Install Composer in version 2.2.x ([https://getcomposer.org](https://gecomposer.org)).
 
