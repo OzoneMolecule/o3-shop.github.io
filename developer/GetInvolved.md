@@ -1,4 +1,9 @@
-# O3-Shop
+---
+title: Get involved 
+layout: default
+parent: Developer manuals
+nav_order: 5
+---
 
 ## Get involved
 
