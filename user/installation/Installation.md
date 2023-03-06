@@ -1,4 +1,9 @@
-# O3-Shop
+---
+title: new installation 
+layout: default
+---
+
+# Installation instructions
 
 ## Installation
 
