@@ -4,6 +4,7 @@ layout: default
 parent: Installation instructions
 grand_parent: User manuals
 nav_order: 10
+permalink: /usermanuals/installation/fromscratch
 ---
 
 # Installation from scratch
