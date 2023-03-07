@@ -1,0 +1,22 @@
+---
+title: Migration from OXID 
+layout: default
+parent: Installation instructions
+grand_parent: User manuals
+nav_order: 15
+permalink: /usermanuals/installation/oxidmigration
+---
+
+## Migration from OXID eShop
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+## Dependencies
