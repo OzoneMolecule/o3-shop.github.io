@@ -7,5 +7,5 @@ nav_order: 10
 permalink: /usermanuals/installation
 ---
 
-# Installation instructions
+## Installation instructions
 ...
